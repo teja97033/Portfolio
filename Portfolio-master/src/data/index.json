@@ -1,0 +1,52 @@
+
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/database.jpg",
+      "title": "Databases",
+      "description": "Databases are essential for storing, organizing, and retrieving structured or unstructured data efficiently. They serve as the foundation for data systems, enabling quick access to information and supporting applications, analytics, and decision-making processes"
+    },
+    {
+      "id": "2",
+      "src": "./img/Cloud.jpg",
+      "title": "Cloud Platforms",
+      "description": "Cloud platforms provide scalable, flexible, and cost-effective infrastructure for data storage, processing, and analysis. They eliminate the need for physical hardware, enable global accessibility, and offer advanced tools for building and managing data pipelines."
+    },
+    {
+      "id": "3",
+      "src": "./img/Big Data.jpg",
+      "title": "Big Data Tools",
+      "description": "Big data tools are designed to handle massive volumes of data that traditional systems cannot process. They enable distributed computing, real-time data processing, and advanced analytics, making it possible to derive insights from large and complex datasets."
+    },
+    {
+      "id": "4",
+      "src": "./img/Visual.jpg",
+      "title": "Visualization Tools",
+      "description": "Visualization tools transform raw data into intuitive charts, graphs, and dashboards. They help stakeholders understand trends, patterns, and insights, making data-driven decision-making more accessible and effective."
+    },
+    {
+      "id": "5",
+      "src": "./img/Programming.jpg",
+      "title": "Programming Languages",
+      "description": "Programming languages are the backbone of data engineering. They allow you to write scripts, automate processes, build data pipelines, and manipulate data. Mastery of these languages ensures you can create efficient, scalable, and maintainable solutions."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "title": "Insurance ",
+      "description": "Designed and implemented scalable data pipelines for insurance claims processing, fraud detection, and customer insights using AWS. Built batch ingestion workflows with AWS Glue and real-time streaming with Amazon Kinesis, transforming and integrating claims, policy, and customer data into Amazon Redshift. Orchestrated ETL workflows using Apache Airflow and AWS Step Functions, enabling efficient data processing and automation. Developed fraud detection models with Amazon SageMaker and created interactive dashboards in Amazon QuickSight for claims analytics and risk assessment. Optimized query performance using Amazon Athena and Redshift while ensuring data quality, governance, and compliance with industry regulations."
+    },
+    {
+      "id": "2",
+      "title": "Health care",
+      "description": "Designed and implemented scalable data pipelines for a healthcare analytics project, integrating patient records, claims, and provider data from multiple sources using AWS Glue and Kinesis for batch and real-time ingestion. Optimized ETL workflows in Apache Airflow to process, clean, and enrich high-volume healthcare data, storing it efficiently in Amazon S3 and Redshift. Developed complex SQL queries and Athena-based analytics for actionable insights into patient outcomes, fraud detection, and operational efficiency. Leveraged Amazon SageMaker to build advanced predictive models for early disease detection and risk assessment. Ensured compliance with HIPAA regulations by implementing robust data governance, encryption, and security measures."},
+    {
+      "id": "3",
+      "title": "Disney Steaming",
+      "description": "Designed and implemented a scalable real-time data pipeline for Disney’s customer engagement and content recommendation systems using Amazon Kinesis and Apache Kafka to process millions of events per second. Built AWS Glue jobs and Lambda functions for data transformation, enriching streaming data with metadata from S3 and DynamoDB. Optimized Amazon Redshift schemas for real-time insights, integrated Apache Flink for low-latency stream processing, and used AWS Step Functions and Apache Airflow for orchestration. Developed event-driven architectures with SNS/SQS, ensured data quality with CloudWatch and Datadog, and deployed Amazon QuickSight dashboards for visualizing engagement trends, enhancing content recommendations through real-time analytics"}
+  ]
+  
+
+}
