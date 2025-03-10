@@ -2,13 +2,13 @@
   "skills": [
     {
       "id": "1",
-      "src": "./img/dotnet.jpg",
+      "src": "./img/net.png",
       "title": ".NET Development",
       "description": "Experienced in .NET 4.0/4.5, ASP.NET MVC 5, and ASP.NET Core 6.0/8.0 for building scalable, high-performance web applications. Skilled in C#, VB.NET, LINQ, and ADO.Net."
     },
     {
       "id": "2",
-      "src": "./img/cloud.jpg",
+      "src": "./img/Cloud.jpg",
       "title": "Cloud & Deployment",
       "description": "Proficient in deploying applications on AWS and Microsoft Azure, utilizing Docker for containerization and optimizing CI/CD pipelines using Azure DevOps."
     },
@@ -20,13 +20,13 @@
     },
     {
       "id": "4",
-      "src": "./img/api.jpg",
+      "src": "./img/rest.jpg",
       "title": "RESTful API Development",
       "description": "Expertise in designing and optimizing RESTful APIs using ASP.Net Core, OAuth 2.0 authentication, and Python-based frameworks like Flask and Django."
     },
     {
       "id": "5",
-      "src": "./img/tools.jpg",
+      "src": "./img/agile.jpg",
       "title": "Development Tools & Methodologies",
       "description": "Adept in Agile (Scrum) and Waterfall methodologies, using tools like Jira, GitHub, SVN, and TFS. Proficient in unit testing frameworks including NUnit and MSTest."
     }
